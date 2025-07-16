@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import ChillyCard from './ChillyCard'
 import StuffyCard from './StuffyCard'
 import LambieCard from './LambieCard'

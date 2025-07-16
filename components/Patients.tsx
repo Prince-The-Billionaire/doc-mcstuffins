@@ -36,7 +36,7 @@ const Patients = () => {
 
   useEffect(() => {
     const ctx = gsap.context(() => {
-      cardRefs.current.forEach((card, i) => {
+      cardRefs.current.forEach((card) => {
         gsap.from(card, {
           scrollTrigger: {
             trigger: card,

@@ -33,7 +33,7 @@ const ChillyCard = () => {
       {/* Description */}
       <p className="text-black text-left text-sm">
         Chilly is always scared that he would melt away. <br />
-        I keep telling him that he's just a toy!
+        I keep telling him that he&apos;s just a toy!
       </p>
       </div>
     </div>

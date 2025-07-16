@@ -70,7 +70,7 @@ const Tools = () => {
       ref={sectionRef}
       className="w-screen min-h-screen bg-purple-50 flex flex-col items-center px-4 py-16"
     >
-      <p className="text-4xl font-bold text-purple-800 text-center">Some Of Doc's Tools</p>
+      <p className="text-4xl font-bold text-purple-800 text-center">Some Of Doc&apos;s Tools</p>
       <p className="text-2xl text-black/80 text-center mt-2 max-w-xl">
         These are the best tools Doc uses to treat her patients
       </p>
